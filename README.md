@@ -19,7 +19,7 @@
    Clonar os repositórios
    
     $ git clone https://github.com/freitasDavi/NLW2_api.git
-    $ git clone https://github.com/freitasDavi/NLW2_Proffy
+    $ git clone https://github.com/freitasDavi/NLW2_ProffyApi.git
    
     # Instalar o node/yarn
 
